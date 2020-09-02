@@ -1,0 +1,22 @@
+{
+  "name": "02-classifiers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/basic": "^4.10.5",
+    "@nlpjs/lang-en": "^4.10.1",
+    "@nlpjs/neural": "^4.10.1",
+    "@nlpjs/nlu-luis": "^4.10.4",
+    "@nlpjs/utils": "^4.10.5",
+    "@tensorflow/tfjs-node": "^2.3.0",
+    "brain.js": "^2.0.0-beta.2",
+    "dotenv": "^8.2.0",
+    "natural": "^2.1.5"
+  }
+}

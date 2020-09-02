@@ -1,0 +1,15 @@
+{
+  "name": "03-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/language": "^4.6.0",
+    "@nlpjs/utils": "^4.10.5"
+  }
+}

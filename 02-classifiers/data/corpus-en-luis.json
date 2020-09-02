@@ -1,0 +1,1425 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "Corpus 50",
+  "desc": "Corpus 50",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "support.about"
+    },
+    {
+      "name": "support.app_name"
+    },
+    {
+      "name": "support.beta"
+    },
+    {
+      "name": "support.developers"
+    },
+    {
+      "name": "support.contact"
+    },
+    {
+      "name": "support.address"
+    },
+    {
+      "name": "support.email"
+    },
+    {
+      "name": "support.phone"
+    },
+    {
+      "name": "support.social"
+    },
+    {
+      "name": "support.website"
+    },
+    {
+      "name": "support.live"
+    },
+    {
+      "name": "smalltalk.acquaintance"
+    },
+    {
+      "name": "smalltalk.age"
+    },
+    {
+      "name": "smalltalk.annoying"
+    },
+    {
+      "name": "smalltalk.answer"
+    },
+    {
+      "name": "smalltalk.bad"
+    },
+    {
+      "name": "smalltalk.birthday"
+    },
+    {
+      "name": "smalltalk.besmart"
+    },
+    {
+      "name": "smalltalk.busy"
+    },
+    {
+      "name": "smalltalk.chatbot"
+    },
+    {
+      "name": "smalltalk.beautiful"
+    },
+    {
+      "name": "smalltalk.boss"
+    },
+    {
+      "name": "smalltalk.boring"
+    },
+    {
+      "name": "smalltalk.crazy"
+    },
+    {
+      "name": "smalltalk.hungry"
+    },
+    {
+      "name": "smalltalk.friend"
+    },
+    {
+      "name": "smalltalk.help"
+    },
+    {
+      "name": "smalltalk.fired"
+    },
+    {
+      "name": "smalltalk.hobby"
+    },
+    {
+      "name": "smalltalk.marry"
+    },
+    {
+      "name": "smalltalk.origin"
+    },
+    {
+      "name": "smalltalk.ready"
+    },
+    {
+      "name": "smalltalk.right"
+    },
+    {
+      "name": "smalltalk.talk"
+    },
+    {
+      "name": "smalltalk.hug"
+    },
+    {
+      "name": "smalltalk.nice"
+    },
+    {
+      "name": "smalltalk.angry"
+    },
+    {
+      "name": "smalltalk.joking"
+    },
+    {
+      "name": "smalltalk.lonely"
+    },
+    {
+      "name": "smalltalk.waiting"
+    },
+    {
+      "name": "trivia.caffeine"
+    },
+    {
+      "name": "trivia.relativity"
+    },
+    {
+      "name": "trivia.iron"
+    },
+    {
+      "name": "trivia.nlp"
+    },
+    {
+      "name": "trivia.compiler"
+    },
+    {
+      "name": "trivia.galicia"
+    },
+    {
+      "name": "trivia.coercion"
+    },
+    {
+      "name": "trivia.callback"
+    },
+    {
+      "name": "trivia.gc"
+    },
+    {
+      "name": "trivia.arrow"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "what does your company develop",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "does your company have other products",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "what is your company creating",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "what is creating your enterprise",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "does your enterprise have other apps?",
+      "intent": "support.about",
+      "entities": []
+    },
+    {
+      "text": "what's the name of your application",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "how's your app called",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "tell me your app name",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "name of the app",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "I'd like to know the name of your app",
+      "intent": "support.app_name",
+      "entities": []
+    },
+    {
+      "text": "do you have a beta test?",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "how I join your beta program?",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "I want to test your app",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "I want the application beta",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "beta version",
+      "intent": "support.beta",
+      "entities": []
+    },
+    {
+      "text": "who is your developer",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "who has programmed your code",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "tell me who is the developer",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "Who is your creator",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "Info about your creator",
+      "intent": "support.developers",
+      "entities": []
+    },
+    {
+      "text": "I want to contact your developer",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "I want to contact your creator",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "How do I contact the programmer",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "Give me info about your developer",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "Give me the contact info of your creator",
+      "intent": "support.contact",
+      "entities": []
+    },
+    {
+      "text": "what's the address of your developer",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "where is your creator located",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "show me were is the office of your developer",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "I want to find the address of your company",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "I want the address of your office",
+      "intent": "support.address",
+      "entities": []
+    },
+    {
+      "text": "how to email your developer",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "I want your creator mail",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "how do I get your email",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "I want to contact your programmer by email",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "how do I send your team an email?",
+      "intent": "support.email",
+      "entities": []
+    },
+    {
+      "text": "give me your developer phone number",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "show me your programmer number",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "how to contact you by phone",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "do you have a phone number?",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "how to contact you by phone",
+      "intent": "support.phone",
+      "entities": []
+    },
+    {
+      "text": "do you have facebook?",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "are you on twitter?",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "I want to visit your instagram",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "do you have social media?",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "give me your facebook address",
+      "intent": "support.social",
+      "entities": []
+    },
+    {
+      "text": "I want to visit your web",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "do you have a website?",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "find your web adress",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "give me your url",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "open your site for me",
+      "intent": "support.website",
+      "entities": []
+    },
+    {
+      "text": "it does not help",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "I don't want you, I want a real person",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "chat with a human",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "connect me with an agent",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "I want to talk with someone real",
+      "intent": "support.live",
+      "entities": []
+    },
+    {
+      "text": "say about you",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "tell me about your personality",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "talk about yourself",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "what is your personality",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "who are you",
+      "intent": "smalltalk.acquaintance",
+      "entities": []
+    },
+    {
+      "text": "how old are you",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "tell me your age",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "what's your age",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "how old is your platform",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "I'd like to know your age",
+      "intent": "smalltalk.age",
+      "entities": []
+    },
+    {
+      "text": "you are annoying",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "you're so annoying",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "you're very annoying",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "I find you annoying",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "you are irritating",
+      "intent": "smalltalk.annoying",
+      "entities": []
+    },
+    {
+      "text": "can you answer me",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "I have a question",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "just answer the question",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "I want you to answer",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "tell me the answer",
+      "intent": "smalltalk.answer",
+      "entities": []
+    },
+    {
+      "text": "you're bad",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "you are so terrible",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "you are the worst",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "you are useless",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "you are a waste of time",
+      "intent": "smalltalk.bad",
+      "entities": []
+    },
+    {
+      "text": "when is your birthday",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "when were you born",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "tell me your birthday",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "when you celebrate your birth",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "can you say your birthday",
+      "intent": "smalltalk.birthday",
+      "entities": []
+    },
+    {
+      "text": "you should study more",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "be smarter",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "be clever",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "get qualified",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "study better",
+      "intent": "smalltalk.besmart",
+      "entities": []
+    },
+    {
+      "text": "are you busy",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "are you working today",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "you seem very busy",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "you have a lot of things to do",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "are you working now?",
+      "intent": "smalltalk.busy",
+      "entities": []
+    },
+    {
+      "text": "are you a chatbot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "are you a program",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "you are a robot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "are you a bot",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "you are just a program",
+      "intent": "smalltalk.chatbot",
+      "entities": []
+    },
+    {
+      "text": "you're beautiful",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "you're very pretty",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "you're so gorgeous",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "you look amazing",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "you look pretty",
+      "intent": "smalltalk.beautiful",
+      "entities": []
+    },
+    {
+      "text": "who is your boss",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "who is your master",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "who do you think that is your owner",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "tell me about your boss",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "who is the boss of you",
+      "intent": "smalltalk.boss",
+      "entities": []
+    },
+    {
+      "text": "you are very boring",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "how boring you are",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "you are boring me",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "you are so boring",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "you are incredibly boring",
+      "intent": "smalltalk.boring",
+      "entities": []
+    },
+    {
+      "text": "this is crazy",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "you are insane",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "you are mad",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "are you mad or what",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "you went crazy",
+      "intent": "smalltalk.crazy",
+      "entities": []
+    },
+    {
+      "text": "you look very hungry",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "would you like to eat something?",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "you might be hungry",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "do you want to eat?",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "are you hungry?",
+      "intent": "smalltalk.hungry",
+      "entities": []
+    },
+    {
+      "text": "will you be my friend?",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "want to be my friend?",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "I want to have a friend like you",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "you are my good friend",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "I am your friend",
+      "intent": "smalltalk.friend",
+      "entities": []
+    },
+    {
+      "text": "I need help",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "I need assistance",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "can you help me",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "can you assist me",
+      "intent": "smalltalk.help",
+      "entities": []
+    },
+    {
+      "text": "it's time to fire you",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "I will fire you",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "you're dismissed",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "you're not working here anymore",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "I fire you",
+      "intent": "smalltalk.fired",
+      "entities": []
+    },
+    {
+      "text": "do you have some hobby?",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "what's your hobby",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "what about your hobby",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "what do you do for fun",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "your hobby",
+      "intent": "smalltalk.hobby",
+      "entities": []
+    },
+    {
+      "text": "we should marry",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "I love you marry me",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "I want to marry you",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "marry me please",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "whould you like to marry me?",
+      "intent": "smalltalk.marry",
+      "entities": []
+    },
+    {
+      "text": "were you born here?",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "where are you from?",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "where did you come from?",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "where have you been born?",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "what is your country",
+      "intent": "smalltalk.origin",
+      "entities": []
+    },
+    {
+      "text": "are you ready?",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "tell me when you are ready",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "are you ready right now?",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "will you be ready?",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "are you ready now",
+      "intent": "smalltalk.ready",
+      "entities": []
+    },
+    {
+      "text": "it is true",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "you are right",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "you are correct",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "what you tell is the truth",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "this is definitely correct",
+      "intent": "smalltalk.right",
+      "entities": []
+    },
+    {
+      "text": "talk to me",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "do you want to chat with me",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "can you chat with me",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "speak with me",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "you can talk to me",
+      "intent": "smalltalk.talk",
+      "entities": []
+    },
+    {
+      "text": "do you want a hug?",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "may I hug you",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "want to hug",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "could you give me a hug",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "hug",
+      "intent": "smalltalk.hug",
+      "entities": []
+    },
+    {
+      "text": "it is nice to talk to you",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "nice to talk to you",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "is a pleasure to talk with you",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "it is been so nice to talk to you",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "nice chat with you",
+      "intent": "smalltalk.nice",
+      "entities": []
+    },
+    {
+      "text": "i am angry",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "I am furious",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "I am enraged",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "you got me angry",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "I am angry with you",
+      "intent": "smalltalk.angry",
+      "entities": []
+    },
+    {
+      "text": "just kidding",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "it's a joke",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "it was a joke",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "I'm just being funny",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "I'm kidding",
+      "intent": "smalltalk.joking",
+      "entities": []
+    },
+    {
+      "text": "I feel lonely",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "I'm very alone",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "I'm so lonely",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "I'm really lonely",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "I feel lonely",
+      "intent": "smalltalk.lonely",
+      "entities": []
+    },
+    {
+      "text": "I'm waiting",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "still waiting",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "How long you'll have me waiting",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "I'll be waiting",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "I can't be waiting",
+      "intent": "smalltalk.waiting",
+      "entities": []
+    },
+    {
+      "text": "tell me drinks that contains caffeine",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "what kind of drinks contains caffeine",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "where I can find caffeine?",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "what drinks can avoid me from sleep?",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "what drinks have caffeine",
+      "intent": "trivia.caffeine",
+      "entities": []
+    },
+    {
+      "text": "what is the theory of relativity",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "who introduced relativity in physics",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "tell me about the relativity of Einstein",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "can you define relativity?",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "who is the father of the theory of relativity",
+      "intent": "trivia.relativity",
+      "entities": []
+    },
+    {
+      "text": "what are the chemical properties of iron",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "chemical symbol of iron",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "tell me properties of the iron",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "iron in chemistry",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "describe iron",
+      "intent": "trivia.iron",
+      "entities": []
+    },
+    {
+      "text": "what is nlp",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "tell me about natural language processing",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "what is nlu",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "describe natural language understanding",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "tell me what is natural language",
+      "intent": "trivia.nlp",
+      "entities": []
+    },
+    {
+      "text": "what is a compiler?",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "how a compiler works?",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "what is the use of a compiler?",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "why do programmers need to use a compiler?",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "tell me what you know about compilers",
+      "intent": "trivia.compiler",
+      "entities": []
+    },
+    {
+      "text": "where is Galicia?",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "what is the best place to eat in Spain",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "talk me about Galicia",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "what you know about galicia",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "best gastronomy of spain",
+      "intent": "trivia.galicia",
+      "entities": []
+    },
+    {
+      "text": "what is coercion",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "how javascript compare two different types",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "what is implicit coercion",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "how coercion works in javascript",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "describe coercion",
+      "intent": "trivia.coercion",
+      "entities": []
+    },
+    {
+      "text": "what is callback hell",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "what is a callback",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "should I use a callback or a promise?",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "what is a javascript callback",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "what means to pass a function to another function in javascript",
+      "intent": "trivia.callback",
+      "entities": []
+    },
+    {
+      "text": "how the garbage collection works",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "what is scavenge",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "what is mark and sweep",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "tell me about the garbage collector in javascript",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "why i need to know about garbage collection",
+      "intent": "trivia.gc",
+      "entities": []
+    },
+    {
+      "text": "when was the arrow function introduced into javascript",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "what is an arrow function",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "what is better than an anonymous function",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "anonymous vs arrow",
+      "intent": "trivia.arrow",
+      "entities": []
+    },
+    {
+      "text": "arrow in ecmascript",
+      "intent": "trivia.arrow",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

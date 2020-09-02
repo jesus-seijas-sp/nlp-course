@@ -1,0 +1,150 @@
+{
+  "name": "WebApplicationsCorpus",
+  "locale": "en-us",
+  "data": [
+    {
+      "intent": "Find Alternative",
+      "utterances": [
+        "Alternatives for Google Reader (with Android synchronizing)",
+        "Bugmenot (registration bypasser) alternative that doesn't suck?",
+        "Alternatives to Twitter",
+        "Google search engine alternatives",
+        "Alternatives to Google Groups with more features?",
+        "Are there any good Veoh or Youtube alternatives?",
+        "Mint alternatives for Canada"
+      ],
+      "tests": [
+        "Alternative to Facebook",
+        "Are there any good Pandora alternatives with general availability outside the US?",
+        "Is there an online alternative to iGoogle",
+        "Any alternatives to Google Apps for your domain?",
+        "Evernote alternative",
+        "Alternatives to LibraryThing",
+        "What are the alternatives to Facebook/Meetup for Event Planning",
+        "Is there a free and privacy-aware alternative to Google?",
+        "What alternatives to Google Product Search exist?",
+        "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?",
+        "Any good alternative to Google Alerts?",
+        "Is there a HTML alternative to Prezi?",
+        "Any alternatives to Google Streetview?",
+        "Zencoder alternatives?",
+        "Alternatives to discontinued Google Calendar Appointment Slots",
+        "Q&A Platform similar to Stack Exchange model?"
+      ]
+    },
+    {
+      "intent": "Delete Account",
+      "utterances": [
+        "How can I delete my Twitter account?",
+        "How do I delete my LinkedIn account?",
+        "How do I delete my Gmail account?",
+        "How do I delete my Experts Exchange account?",
+        "How do I delete my Ohloh profile?",
+        "How can I permanently delete my MySpace account?",
+        "How to disable/delete a Harvest account?"
+      ],
+      "tests": [
+        "How do I delete my Facebook account?",
+        "How can I remove myself from a Trello organization?",
+        "How can I delete my 160by2 account?",
+        "How can I permanently delete my Yahoo mail account?",
+        "Deleting an account(website) from Google Analytics?",
+        "How to delete my imgur account?",
+        "How to change my Uber password or delete the account?",
+        "How to delete a Sify Mail account",
+        "How to permanently delete a 37signals ID",
+        "How can I delete my Hunch account?"
+      ]
+    },
+    {
+      "intent": "Export Data",
+      "utterances": [
+        "How can I export track.scrobble data from last.fm?",
+        "How can I backup my wordpress.com hosted blog?"
+      ],
+      "tests": [
+        "Is it possible to export my data from Trello to back it up?",
+        "How do I transfer my photos from Flickr to Picasa?",
+        "Archive/export all the blog entries from a RSS feed in Google Reader"
+      ]
+    },
+    {
+      "intent": "Sync Accounts",
+      "utterances": [
+        "How can I sync my Yahoo! Calendar with Google Calendar?",
+        "Google Bookmarks and Chrome Bookmark Sync -- Different?",
+        "How do I sync my RunKeeper workout schedule with Google Calender?"
+      ],
+      "tests": [
+        "How do I sync Google Calendar with my Outlook Calendar?",
+        "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?",
+        "Sync not export Facebook events with Google Apps calendar",
+        "How do I sync Facebook Twitter & Foursquare?",
+        "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar",
+        "Google Contact Synchronization on the iPhone 3G"
+      ]
+    },
+    {
+      "intent": "None",
+      "utterances": [
+        "Change subject line in new Gmail compose window",
+        "Email Google Form daily?"
+      ],
+      "tests": [
+        "Good wireframing apps?",
+        "Embedding stop time in a YouTube video link",
+        "Is there a catch to PayPal's Premier account type?",
+        "How can I get OkCupid search to show only matches within 5 miles of me?"
+      ]
+    },
+    {
+      "intent": "Change Password",
+      "utterances": [
+        "How do I change my password on TV Tropes?",
+        "Why can't I change my password and login with Skype?"
+      ],
+      "tests": [
+        "Gmail user set up through Google Apps can't change their password",
+        "How do I change my password on ebay?",
+        "Gmail recover password while logged in Iphone",
+        "How to retrieve forgotten Wordpress Admin password",
+        "How to retrieve a stolen Yahoo account's password?",
+        "Users can't reset their passwords anymore on Google Apps?"
+      ]
+    },
+    {
+      "intent": "Filter Spam",
+      "utterances": [
+        "Does using Gmail's \"Never send it to Spam\" filter mean I can't train their spam filter?",
+        "Correctly Identifying Spam Messages",
+        "Twitter and Echofon spam",
+        "Totally Blocking Spam To Gmail Account",
+        "Discarding spam mail faster in Gmail",
+        "Stopping spam emails in Gmail by pattern"
+      ],
+      "tests": [
+        "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?",
+        "How can I auto-delete some spam from Gmail?",
+        "When I move spam to my inbox it goes back into the spam again",
+        "How to send messages to spam in Gmail filter?",
+        "How do I disable the spam filter in Gmail?",
+        "How to check your Gmail spam label for good emails",
+        "Mark large numbers of messages as \"not spam\"",
+        "What are alternatives to Postini for spam filtering?",
+        "How to remove spam filter for Google Apps email",
+        "Does marking an email as spam in Gmail affect the filter for everyone?",
+        "How can I prevent/lessen event spam on Facebook?",
+        "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?",
+        "Gmail's filter for SPAM folder and/or keywords in multiple fields",
+        "Get rid of Russian junk from my Gmail"
+      ]
+    },
+    {
+      "intent": "Download Video",
+      "utterances": [
+        "How do I download a YouTube video?"
+      ],
+      "tests": []
+    }
+  ]
+}
