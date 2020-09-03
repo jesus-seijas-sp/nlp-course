@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nlpjs/emoji": "^4.10.1",
     "@nlpjs/language": "^4.6.0",
-    "@nlpjs/utils": "^4.10.5"
+    "@nlpjs/ner": "^4.10.6",
+    "@nlpjs/similarity": "^4.10.6",
+    "@nlpjs/utils": "^4.10.6"
   }
 }

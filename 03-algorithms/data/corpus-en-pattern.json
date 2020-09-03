@@ -1,0 +1,24 @@
+{
+  "name": "Corpus Pattern",
+  "locale": "en-US",
+  "data": [
+    {
+      "intent": "eat",
+      "utterances": [
+        "I [usually|always] [like|love] to eat [pizza|spaghetti|burguer]"
+      ],
+      "tests": [
+        "I [like|love] [pizza|burguer]"
+      ]
+    },
+    {
+      "intent": "investigate",
+      "utterances": [
+        "I [am having|have] a [problem|question] that I have to [solve|investigate]"
+      ],
+      "tests": [
+        "I should [solve|investigate] that [problem|question]"
+      ]
+    }
+  ]
+}
