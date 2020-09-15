@@ -1,0 +1,15 @@
+{
+  "name": "04-ner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/ner": "^4.10.7",
+    "@nlpjs/utils": "^4.10.6"
+  }
+}
