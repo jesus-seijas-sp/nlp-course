@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nlpjs/basic": "^4.10.5",
-    "@nlpjs/lang-en": "^4.10.1",
-    "@nlpjs/neural": "^4.10.1",
-    "@nlpjs/nlu-luis": "^4.10.4",
-    "@nlpjs/utils": "^4.10.5",
-    "@tensorflow/tfjs-node": "^2.3.0",
+    "@nlpjs/basic": "^4.11.3",
+    "@nlpjs/lang-en": "^4.11.0",
+    "@nlpjs/neural": "^4.11.0",
+    "@nlpjs/nlu-luis": "^4.11.0",
+    "@nlpjs/utils": "^4.11.0",
+    "@tensorflow/tfjs-node": "^2.4.0",
     "brain.js": "^2.0.0-beta.2",
     "dotenv": "^8.2.0",
     "natural": "^2.1.5"
