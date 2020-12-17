@@ -1,0 +1,18 @@
+{
+  "name": "06-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/basic": "^4.17.5",
+    "@nlpjs/directline-connector": "^4.17.5",
+    "@nlpjs/express-api-server": "^4.17.1",
+    "@nlpjs/lang-es": "^4.17.0",
+    "@nlpjs/utils": "^4.17.1"
+  }
+}

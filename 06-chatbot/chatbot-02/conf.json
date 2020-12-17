@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "nlp": {
+      "corpora": []
+    }
+  },
+  "use": ["Basic", "LangEn"]
+}

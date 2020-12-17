@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "nlp": {
+      "corpora": ["../data/corpus-en.json", "../data/corpus-es.json"]
+    }
+  },
+  "use": ["Basic", "LangEn", "LangEs"]
+}
