@@ -17,6 +17,6 @@
     "@tensorflow/tfjs-node": "^2.4.0",
     "brain.js": "^2.0.0-beta.2",
     "dotenv": "^8.2.0",
-    "natural": "^2.1.5"
+    "natural": "^2.4.5"
   }
 }
